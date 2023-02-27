@@ -6,3 +6,5 @@ Structure learning and parameter learning for DBN and parameter saving
 Learning process of BN and prediction of BN
 # forcast_DBN.R
 prediction of DBN
+# sqlQuery.py
+SQL Query Example
